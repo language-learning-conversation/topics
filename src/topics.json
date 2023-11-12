@@ -1,10 +1,10 @@
 [
     {
-        "Question": "test1",
-        "Vocabulary": "test1answer"
+        "Question": "What is your favorite color?",
+        "Vocabulary": "Colors"
     },
     {
-        "Question": "test2",
-        "Vocabulary": "answer2"
+        "Question": "What is your favorite animal?",
+        "Vocabulary": "Animals"
     }
 ]
